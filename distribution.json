@@ -150,9 +150,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3939,
+            "size": 3969,
             "url": "https://raw.githubusercontent.com/joinusonline/JoinUsOnline-distro/main/servers/JoinUsOnline-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Fullbright-UB-1.20.zip",
+          "name": "Fullbright-UB-1.20.zip",
+          "type": "File",
+          "artifact": {
+            "size": 247028,
+            "url": "https://raw.githubusercontent.com/joinusonline/JoinUsOnline-distro/main/servers/JoinUsOnline-1.20.1/files/resourcepacks/Fullbright-UB-1.20.zip",
+            "MD5": "4cc02aed0a4eaa80a53984857da6e1e3",
+            "path": "resourcepacks/Fullbright-UB-1.20.zip"
           }
         },
         {
