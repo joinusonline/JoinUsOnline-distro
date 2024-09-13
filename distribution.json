@@ -12,7 +12,7 @@
       "name": "조인어스 온라인",
       "description": "JoinUsOnline Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/BabyBear7/demo-distro/raw/main/serverimg.jpg",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "juonline.mcsv.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -164,17 +164,6 @@
             "url": "https://raw.githubusercontent.com/joinusonline/JoinUsOnline-distro/main/servers/JoinUsOnline-1.20.1/files/resourcepacks/Fullbright-UB-1.20.zip",
             "MD5": "4cc02aed0a4eaa80a53984857da6e1e3",
             "path": "resourcepacks/Fullbright-UB-1.20.zip"
-          }
-        },
-        {
-          "id": "리소스팩.zip",
-          "name": "리소스팩.zip",
-          "type": "File",
-          "artifact": {
-            "size": 5111906,
-            "url": "https://raw.githubusercontent.com/joinusonline/JoinUsOnline-distro/main/servers/JoinUsOnline-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
-            "path": "resourcepacks/리소스팩.zip"
           }
         }
       ]
